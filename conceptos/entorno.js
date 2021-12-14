@@ -2,5 +2,5 @@
 // como la de una pasarela de pago para no tener dentro del codigo 
 // los valores necesarios para algun proceso
 
-let nombre = process.env.NOMBRE;
+let nombre = 'pruebas';
 console.log(nombre);
